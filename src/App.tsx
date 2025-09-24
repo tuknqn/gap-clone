@@ -12,13 +12,18 @@ function App() {
   const heroSlides = [
     {
       image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=600&fit=crop",
-      title: "El éxito depende de elegir la opción correcta",
-      subtitle: "Tecnología e innovación para tu empresa"
+      title: "Hay soluciones que pueden optimizar tu negocio",
+      subtitle: ""
     },
     {
       image: "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200&h=600&fit=crop",
-      title: "Soluciones tecnológicas innovadoras",
-      subtitle: "Desarrollo de software de última generación"
+      title: "El éxito depende de elegir la opción correcta...",
+      subtitle: ""
+    },
+    {
+      image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=600&fit=crop",
+      title: "La correcta es la que resuelve tu problema",
+      subtitle: "nosotros la construimos"
     }
   ]
 
